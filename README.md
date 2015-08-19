@@ -1,6 +1,7 @@
-#Clone of official [SATS-App](https://play.google.com/store/apps/details?id=com.sats.sats)
-###Android Course project done in a group of 5.
-We were given the task to replicate the official [SATS Training](https://play.google.com/store/apps/details?id=com.sats.sats) app based on mocks and specifications provided to us.
+#Partial clone of official [SATS-App](https://play.google.com/store/apps/details?id=com.sats.sats)
+##[YHC3L](http://yhc3l.se) Android course project done in a group of 5.
+
+We were given the task to partially replicate the official [SATS Training](https://play.google.com/store/apps/details?id=com.sats.sats) app based on mocks and specifications provided to us.
 
 ###**Main parts where I contributed:**
 * Fine-tweaking the UI to make it match the mocks we were given without creating overly nested xml layout files.
