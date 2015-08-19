@@ -17,7 +17,7 @@ We were given the task to replicate the official [SATS Training](https://play.go
 
 ###**Main features:**
 
-######Detailed UI to show both past and future booked classes.  
+#####Detailed UI to show both past and future booked classes.  
 Graph is showing the number of classes for each week. It is scrollable both left/right and if clicked will scroll the list below to the corresponding week.  
 
 Data is downloaded from SATS Public REST-API combined with dummy data from our own server. Then stored locally with Realm and updated when needed based on HTTP headers automatically through Ion when new requests are made.  
@@ -27,7 +27,7 @@ Data is downloaded from SATS Public REST-API combined with dummy data from our o
 <br />
 
 
-######Map to look up nearby Sats Training Centers
+#####Map to look up nearby Sats Training Centers
 <img src="screenshots/sats_center_map.jpg" width="300"/>  
 <br />
 
