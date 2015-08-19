@@ -432,7 +432,7 @@ public class WorkoutListAdapter extends BaseAdapter implements StickyListHeaders
 
     public int positionOfTodaysFirstItem()
     {
-        return numberOfPastListItems;
+        return numberOfPastListItems-1;
     }
 
     public int getPositionFromWeekHash(int weekHash)
