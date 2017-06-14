@@ -1,5 +1,6 @@
-##Partial clone of official [SATS-App](https://play.google.com/store/apps/details?id=com.sats.sats)
-####[YHC3L](http://yhc3l.se) Android course project done in a group of 5.
+Partial clone of official [SATS-App](https://play.google.com/store/apps/details?id=com.sats.sats)
+
+[YHC3L](http://yhc3l.se) Android course project done in a group of 5.
 
 We were given the task to partially replicate the official [SATS Training](https://play.google.com/store/apps/details?id=com.sats.sats) app based on mocks and specifications provided to us.
 
