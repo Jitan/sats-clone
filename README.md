@@ -32,8 +32,10 @@ Data is downloaded from SATS Public REST-API combined with dummy data from our o
 
 
 Map to look up nearby Sats Training Centers 
+
 <img src="screenshots/sats_center_map.jpg" width="300"/>  
 <br />
 
 Webview to show Training Center details 
+
 <img src="screenshots/sats_center_webview.jpg" width="300"/>
